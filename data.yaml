@@ -1,13 +1,7 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: train/images
+val: valid/images
+test: test/images
 
-nc: 2
-names: ['car', 'plat_license']
-
-roboflow:
-  workspace: haelahpx
-  project: carplatenumebr-pecs3
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/haelahpx/carplatenumebr-pecs3/dataset/1
+names: 
+  0: car
+  1: license_plat
