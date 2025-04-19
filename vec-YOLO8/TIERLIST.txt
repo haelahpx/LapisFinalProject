@@ -1,0 +1,9 @@
+Prediction
+1. vec-YOLO8-RGB-v4
+2. vec-YOLO8-RGB-v2.best1
+3. vec-YOLO8-RGB-v2
+
+Testing
+1. vec-YOLO8-RGB
+2. vec-YOLO8-RGB.best2
+3. vec-YOLO8-RGB.best1
